@@ -1,0 +1,15 @@
+:root {
+  --color-hover: #ffc0cb;
+  --color-btn: #f0a1ae;
+  --color-text: #fff;
+  --color-main-1: #46344e;
+  --color-main-2: #382a3f;
+  --color-instagram: #ea7006;
+  --color-github: #000;
+  --color-linkedin: #4444f3;
+  --box-shadow-navbar: 5px 5px 10px rgba(0,0,0,0.1);
+  --link-color: #fff;
+  --border-i: #fff;
+  --border-btn: #fff;
+  --color-text-btn: #fff;
+}
